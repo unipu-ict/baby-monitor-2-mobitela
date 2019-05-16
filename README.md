@@ -1,4 +1,4 @@
-# baby-monitor-2-mobitela
+# baby-monitor-2-mobitela (mobapp)
 Mobilna aplikacija za udaljeno praćenje bebe pomoću 2 mobitela.
 
 ### Autori (2018./2019.)
